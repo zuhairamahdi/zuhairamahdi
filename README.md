@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there! 👋 I'm Zuhair
 
-<!--
-**zuhairamahdi/zuhairamahdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer with a passion for **Python**, **Golang**, and exploring **Odin**. I enjoy backend development with **Django**, **FastAPI**, and **Echo**, as well as creating games with **Pygame** and **Raylib**.
 
-Here are some ideas to get you started:
+### 🌱 Currently Exploring
+- Backend Development **Python**, **Golang**.
+- Game dev projects using Pygame & Raylib.
+- Expanding language skills with Odin.
+- Use new technologies to create new weird things
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📫 Let's Connect
+Always open to collaborations, ideas, or just a quick chat!
